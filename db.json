@@ -1,12 +1,29 @@
 {
-    "dishes": [
-        {
-          "id": 1,
-          "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700%2C636"
-        },
-         {
-          "id": 2,
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2016/howcuttingdo.jpg"
-        }
-    ]
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Bánh mì trứng",
+      "image": "https://media.phunutoday.vn/files/upload_images/2016/01/21/cach-lam-banh-my-trung-ngon-1-phunutoday_vn.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bánh mì xúc xích",
+      "image": "https://i.ytimg.com/vi/sN7YxRg5qi4/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Phở bò",
+      "image": "https://image-us.eva.vn/upload/2-2019/images/2019-06-28/1561709538-885-thumbnail_schema_article.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Xôi xéo",
+      "image": "https://cdn-www.vinid.net/2020/05/aa6bbda3-huong-dan-cach-lam-xoi-xeo-deo-thom-ngon-lanh.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mỳ gà tần",
+      "image": "https://images.foody.vn/res/g31/301396/prof/s576x330/foody-mobile-757-jpg-342-636373682355796155.jpg"
+    }
+  ]
 }
