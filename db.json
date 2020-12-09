@@ -1,9 +1,9 @@
 [
-    "dish": {
+    {
       "id": 1,
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700%2C636"
     },
-    "dish": {
+     {
       "id": 2,
       "image": "https://scx2.b-cdn.net/gfx/news/hires/2016/howcuttingdo.jpg"
     }
